@@ -89,6 +89,7 @@ When a user clicks on the movie card inside `MovieList` they should be taken to 
 *** To use a {Link} instead of the navigate hook, import {Link}. Declare link provocation: link={<Link to={`movie/${movie.id}`}>Details</Link>} Where the link goes to the interpolated URL of the specific movie. This link is displayed as 'Details' on the movie-card div.
 
 
+
 ### Task 3: Stretch Goals
 
 If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
